@@ -1,16 +1,14 @@
 # api_handler
 
-A new Flutter project.
+Http data fetch Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+## Features
+Fetches post data from the jsonplaceholder API.
+Displays post details, including User ID, Post ID, Title, and Body.
+Includes a refresh button to manually trigger data fetching.
 
-A few resources to get you started if this is your first Flutter project:
+## Dependencies
+http: Used for making HTTP requests.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
